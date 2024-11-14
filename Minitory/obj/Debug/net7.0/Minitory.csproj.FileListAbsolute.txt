@@ -1,0 +1,14 @@
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\bin\Debug\net7.0\Minitory.exe
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\bin\Debug\net7.0\Minitory.deps.json
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\bin\Debug\net7.0\Minitory.runtimeconfig.json
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\bin\Debug\net7.0\Minitory.dll
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\bin\Debug\net7.0\Minitory.pdb
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\obj\Debug\net7.0\Minitory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\obj\Debug\net7.0\Minitory.AssemblyInfoInputs.cache
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\obj\Debug\net7.0\Minitory.AssemblyInfo.cs
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\obj\Debug\net7.0\Minitory.csproj.CoreCompileInputs.cache
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\obj\Debug\net7.0\Minitory.dll
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\obj\Debug\net7.0\refint\Minitory.dll
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\obj\Debug\net7.0\Minitory.pdb
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\obj\Debug\net7.0\Minitory.genruntimeconfig.cache
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\Minitory\Minitory\obj\Debug\net7.0\ref\Minitory.dll
