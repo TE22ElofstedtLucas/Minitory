@@ -1,0 +1,4 @@
+Weapon,Sword,5
+Consumable,Healing Potion,1
+Armor,Helmet,3
+Armor,Boots,4
