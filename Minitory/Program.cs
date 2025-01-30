@@ -20,21 +20,29 @@ namespace MiniInventory
             if (input.ToLower() == "ja")
             {
                 player.Inventory.AddItem(new Armor("Helmet", 3));
+                Console.WriteLine("Hjälm har lagts till i inventoryt!");
             }
 
             // Lägg till fler alternativ att plocka upp rustningsdelar
-            Console.WriteLine("Välj en rustning att plocka upp: 1. Sköld, 2. Bröstplåt, 3. Stövlar");
+            Console.WriteLine("Välj en rustning att plocka upp: 1. Sköld, 2. Bröstplåt, 3. Stövlar, 4. Ring");
             int choice = int.Parse(Console.ReadLine());
             switch (choice)
             {
                 case 1:
                     player.Inventory.AddItem(new Armor("Shield", 8));
+                    Console.WriteLine("Sköld har lagts till i inventoryt!");
                     break;
                 case 2:
                     player.Inventory.AddItem(new Armor("Chestplate", 12));
+                    Console.WriteLine("Bröstplåt har lagts till i inventoryt!");
                     break;
                 case 3:
                     player.Inventory.AddItem(new Armor("Boots", 4));
+                    Console.WriteLine("Stövlar har lagts till i inventoryt!");
+                    break;
+                case 4:
+                    player.Inventory.AddItem(new Accessory("Ring of Strength", 2));
+                    Console.WriteLine("Ring har lagts till i inventoryt!");
                     break;
             }
 
